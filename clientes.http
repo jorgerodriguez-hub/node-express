@@ -1,0 +1,15 @@
+@api = http://localhost:4000
+
+GET {{api}}/clientes
+
+###
+POST {{api}}/crearclientes
+Content-Type: application/json
+
+{
+    "nombre": "Alexis",
+    "apellido": "Rodriguez",
+    "edad": "27",
+    "fecha_nacimiento": "17/10/1995"
+}
+
