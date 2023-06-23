@@ -1,11 +1,13 @@
-# Reto Técnico
+# Reto Técnico - Backend
 
-Este backend es parte del reto técnico en el cuál he utilizado Node, Express y Firebase.
+Este proyecto contiene la parte backend del reto técnico en el cuál he utilizado Node, Express con Firebase.
 
 ## Instalación
 
 Usamos npm para instalar las dependencias.
 
-```bash
-npm install
-```
+### `npm install`
+
+## Despliegue
+
+El despliegue está realizado con Railway.
